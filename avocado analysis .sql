@@ -15,6 +15,5 @@ WHERE type = 'organic'
 ORDER BY `Total Bags` DESC 
 LIMIT 5
 
-select * from
 
 
